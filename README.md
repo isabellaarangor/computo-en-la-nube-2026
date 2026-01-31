@@ -18,7 +18,7 @@ Cada tarea busca aplicar de manera práctica los conceptos teóricos vistos en c
 El repositorio está organizado por tareas:
 
 ```
-├── tarea-1-programacion-paralela/
+├── proyectosOMP/
 ├── tarea-2-...
 ├── tarea-3-...
 └── README.md
